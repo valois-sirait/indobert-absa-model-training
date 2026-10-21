@@ -109,7 +109,7 @@ The original research dataset is not distributed in this repository.
 
 The trained model is intended to be published separately on Hugging Face.
 
-**Hugging Face model repository:** To be added after publication.
+**Hugging Face model repository: Flues/indobert-absa-restaurant-reviews**
 
 The model repository will provide the available model artifacts and relevant usage instructions. Refer to its documentation for details on loading and using the trained model.
 
